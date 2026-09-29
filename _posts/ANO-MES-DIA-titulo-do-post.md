@@ -4,8 +4,6 @@ title: "Manejo da ferrugem asiática na soja"
 slug: manejo-ferrugem-asiatica-soja
 date: 2026-09-10
 author: "Carlos Renato Echeveste da Rosa"
-cover: /assets/images/posts/ferrugem-soja.webp
-cover_alt: "Folha de soja com pústulas de ferrugem"
 ---
 
 Aqui começa o texto do artigo, em Markdown.
