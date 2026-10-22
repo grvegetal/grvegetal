@@ -67,25 +67,25 @@ planos:
   - nome: Plano Profissional
     descricao: "Ideal para quem já atua no agro e enfrenta desafios para identificar e manejar doenças."
     preco: "R$ 300"
-    unidade: /hora
+    unidade: /mês
     largo: false
     link: "https://pay.hotmart.com/V107917066Q"
   - nome: Plano Pesquisador
     descricao: "Suporte técnico para pesquisas On-Farm e produção de conhecimento customizado para a realidade da sua fazenda. Também para estudo orientado de publicações técnicas e científicas."
     preco: "R$ 300"
-    unidade: /hora
+    unidade: /mês
     largo: false
     link: " https://pay.hotmart.com/I107917514E"
   - nome: Plano Estudante
     descricao: "Encontros semanais ou quinzenais para orientação de trabalhos acadêmicos e formação complementar. Para quem quer consolidar os conceitos de Fitopatologia vistos na graduação."
     preco: "R$ 150"
-    unidade: /hora
+    unidade: /mês
     largo: false
     link: " https://pay.hotmart.com/A107917618C"
   - nome: Plano Grupo
     descricao: "Encontros quinzenais com até 4 pessoas, com foco no aprendizado a partir de situações reais enviadas pelos alunos. Ideal para trocar experiências e ampliar o network profissional."
     preco: "R$ 200"
-    unidade: /hora
+    unidade: /mês
     largo: true
     link: "https://pay.hotmart.com/A107917710N"
   - nome: Cursos
