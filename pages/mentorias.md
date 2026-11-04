@@ -43,7 +43,7 @@ para_quem:
 
 como_funciona:
   titulo: Como funciona
-  texto: "Encontros semanais ou quinzenais online, ao vivo, com uma hora de duração. Agendamento pelo WhatsApp. Programa, cronograma e material de apoio definidos no primeiro encontro. Ao final você recebe um relatório final da mentoria, com a avaliação do progresso alcançado e dos pontos de melhoria."
+  texto: "Encontros semanais ou quinzenais online. Agendamento de horários pelo WhatsApp. Programa, cronograma e material de apoio definidos no primeiro encontro. Ao final você recebe um relatório final da mentoria, com a avaliação do progresso alcançado e dos pontos de melhoria."
 
 o_que_muda:
   titulo: O que muda depois da mentoria
@@ -77,13 +77,13 @@ planos:
     largo: false
     link: " https://pay.hotmart.com/I107917514E"
   - nome: Plano Estudante
-    descricao: "Encontros semanais ou quinzenais para orientação de trabalhos acadêmicos e formação complementar. Para quem quer consolidar os conceitos de Fitopatologia vistos na graduação."
+    descricao: "Encontros semanais para orientação de trabalhos acadêmicos e formação complementar. Para quem quer consolidar os conceitos de Fitopatologia vistos na graduação."
     preco: "R$ 150"
     unidade: /mês
     largo: false
     link: " https://pay.hotmart.com/A107917618C"
   - nome: Plano Grupo
-    descricao: "Encontros quinzenais com até 4 pessoas, com foco no aprendizado a partir de situações reais enviadas pelos alunos. Ideal para trocar experiências e ampliar o network profissional."
+    descricao: "Encontros semanais com até 4 pessoas, com foco no aprendizado a partir de situações reais sugeridas pelos alunos. Ideal para trocar experiências e ampliar o network profissional."
     preco: "R$ 300"
     unidade: /mês
     largo: true
